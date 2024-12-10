@@ -1,0 +1,32 @@
+baseURL:
+languageCode: en-us
+title: CC
+theme: ["PaperMod"]
+publishDir: docs
+
+params:
+  homeInfoParams:
+    Title: Cecil Codes
+    Content: Hey, I'm Christian Cecil and sometimes I code.
+
+  socialIcons:
+    - name: "Github"
+      url: "https://github.com/cecvl"
+    - name: "Discord"
+      url: "https://discord.gg/EJVKxFuExB"
+
+  mainSections:
+    - posts
+    - content
+  ShowBreadcrumb: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  code:
+    copy: true
+
+  assets:
+    customCSS:
+      - "css/custom.css"
