@@ -15,7 +15,7 @@ My interest in using the command prompt(cmd) continues to grow,primarily because
 
 > **Note**: _directory_ and _folder_ refer to the same thing
 
-Batch programming, also known as batch scripting, involves using batch files(or batch scripts) to execute commands. A batch file contains a set of commands that are executed in a computer,mostly system tasks. I use batch scripts to streamline repetitive actions. For instance, you can create a batch script to launch your favourite apps when your computer starts. In this article, I demonstrate how to use a batch script to quickly switch my current working directory using a shortcut instead repeatedly typing **cd** commands and paths.
+Batch programming, also known as batch scripting, involves using batch files(or batch scripts) to execute commands. A batch file contains a set of commands that are executed in a computer,mostly system tasks. I use batch scripts to streamline repetitive actions. For instance, you can create a batch script to launch your favourite apps when your computer starts. In this article, I demonstrate how to use a batch script to quickly switch my current working directory to a desired location using a shortcut, avoiding the need to repeatedly type **cd** commands and paths.
 
 ##### Getting started
 
@@ -49,7 +49,7 @@ One last step, you need to modify the Windows Registry for you to use the comman
 
 Click Start and type **regedit**. This will guide you to Registry Editor.
 
-Access **_Command Processor_** directory by following this path: _HKEY_CURRENT_USER_ > _Software_ > _Microsoft_ > _Command Processor_
+Access **_Command Processor_** folder by following this path: _HKEY_CURRENT_USER_ > _Software_ > _Microsoft_ > _Command Processor_
 
 Right-Click to get such a pop-up:
 ![right-click](/images/rc_regedit.jpg)
@@ -64,4 +64,4 @@ Let's confirm if the shortcut is working. Open a new cmd session (don't use any 
 Run the shortcut. My current working directory moves to the target directory `books`.
 ![cmd shortcut](/images/demo_.jpg)
 
-Thank you reading my first blog.
+Thank you for reading my first blog.
