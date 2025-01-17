@@ -17,7 +17,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: &lt;em&gt;directory&lt;/em&gt; and &lt;em&gt;folder&lt;/em&gt; refer to the same thing&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Batch programming, also known as batch scripting, involves using batch files(or batch scripts) to execute commands. A batch file contains a set of commands that are executed in a computer,mostly system tasks. I use batch scripts to streamline repetitive actions. For instance, you can create a batch script to launch your favourite apps when your computer starts. In this article, I demonstrate how to use a batch script to quickly switch my current working directory using a shortcut instead repeatedly typing &lt;strong&gt;cd&lt;/strong&gt; commands and paths.&lt;/p&gt;</description>
+&lt;p&gt;Batch programming, also known as batch scripting, involves using batch files(or batch scripts) to execute commands. A batch file contains a set of commands that are executed in a computer,mostly system tasks. I use batch scripts to streamline repetitive actions. For instance, you can create a batch script to launch your favourite apps when your computer starts. In this article, I demonstrate how to use a batch script to quickly switch my current working directory to a desired location using a shortcut, avoiding the need to repeatedly type &lt;strong&gt;cd&lt;/strong&gt; commands and paths.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

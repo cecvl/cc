@@ -54,7 +54,7 @@ Access **_Command Processor_** folder by following this path: _HKEY_CURRENT_USER
 Right-Click to get such a pop-up:
 ![right-click](/images/rc_regedit.jpg)
 
-Select **String Value** and name it _AutoRun_. For the **_Value_** column, enter the full path to the `cmds.bat` file your created - e.g. `C:\Users\user\.cmds\cmds.bat`
+Select **String Value** and name it _AutoRun_. For the **_Value_** column, enter the full path to the `cmds.bat` file you created earlier - e.g. `C:\Users\user\.cmds\cmds.bat`
 
 Once you are done setting this, the list in _Command Processor_ should have this:
 ![right-click](/images/autorun.jpg)
